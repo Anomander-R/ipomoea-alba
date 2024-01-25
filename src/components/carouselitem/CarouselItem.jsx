@@ -11,7 +11,11 @@ const proba ={
 }
 
 function CarouselItem({item=proba}) {
+  const githubUrl='https://github.com/Anomander-R/ipomoea-alba';
     const {path, author, title,topic,description, textColor} = item;
+    const handleClick =()=>{
+      window.open(githubUrl, '_blank');
+    }
   return (
     <>
       <div className="item">
@@ -25,7 +29,7 @@ function CarouselItem({item=proba}) {
           </div>
           <div className="buttons">
             <button>See More</button>
-            <button>Subscribe</button>
+            <button onClick={handleClick}>Subscribe</button>
           </div>
         </div>
       </div>
