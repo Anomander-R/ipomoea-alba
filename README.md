@@ -4,9 +4,9 @@
 
 ## Description
 
-Ipomoea alba, sometimes called the tropical white morning-glory, moonflower or moon vine, is a species of night-blooming morning glory, native to tropical and subtropical regions of North and South America, from Argentina to northern Mexico, Arizona, Florida and the West Indies. [Wikipedia](https://en.wikipedia.org/wiki/Ipomoea_alba)
+**Inspiration for repo name**: Ipomoea alba, sometimes called the tropical white morning-glory, moonflower or moon vine, is a species of night-blooming morning glory, native to tropical and subtropical regions of North and South America, from Argentina to northern Mexico, Arizona, Florida and the West Indies. [Wikipedia](https://en.wikipedia.org/wiki/Ipomoea_alba)
 
-![Moonflower Slider](public\images\moonflower-slider.png?raw=true "Moonflower Slider")
+![moonflower-slider](https://github.com/Anomander-R/ipomoea-alba/assets/90348779/c41bdcf9-b5da-462a-9a18-cb5198bb6da4)
 
 This repository contains a React application that displays a full-page image slider, inspired by the Ipomoea alba flower. The slider automatically transitions between images, and also allows for manual navigation.
 
