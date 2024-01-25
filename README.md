@@ -10,7 +10,7 @@
 
 This repository contains a React application that displays a full-page image slider, inspired by the Ipomoea alba flower. The slider automatically transitions between images, and also allows for manual navigation.
 
-[Live version](https://65b2a7977f041417d40812ee--roaring-salmiakki-3fa3df.netlify.app/)
+[Live version](https://65b2aae1fa4b591a0501ccb8--roaring-salmiakki-3fa3df.netlify.app/)
 
 ## Features
 
